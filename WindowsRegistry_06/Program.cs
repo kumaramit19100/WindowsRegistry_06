@@ -38,7 +38,7 @@ namespace WindowsRegistry_06
             Console.WriteLine("~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~");
 
             var val5 = registryKey.Name;
-            Console.WriteLine("Get Folder Location with Name :- ");
+            Console.WriteLine("Get Folder Location with Folder Name :- ");
             Console.WriteLine(val5);
             Console.WriteLine("~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~");
                         
