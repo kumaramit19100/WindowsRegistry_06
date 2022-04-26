@@ -1,0 +1,7 @@
+D:\repos\WindowsRegistry\WindowsRegistry_06\WindowsRegistry_06\bin\Debug\WindowsRegistry_06.exe.config
+D:\repos\WindowsRegistry\WindowsRegistry_06\WindowsRegistry_06\bin\Debug\WindowsRegistry_06.exe
+D:\repos\WindowsRegistry\WindowsRegistry_06\WindowsRegistry_06\bin\Debug\WindowsRegistry_06.pdb
+D:\repos\WindowsRegistry\WindowsRegistry_06\WindowsRegistry_06\obj\Debug\WindowsRegistry_06.csproj.AssemblyReference.cache
+D:\repos\WindowsRegistry\WindowsRegistry_06\WindowsRegistry_06\obj\Debug\WindowsRegistry_06.csproj.CoreCompileInputs.cache
+D:\repos\WindowsRegistry\WindowsRegistry_06\WindowsRegistry_06\obj\Debug\WindowsRegistry_06.exe
+D:\repos\WindowsRegistry\WindowsRegistry_06\WindowsRegistry_06\obj\Debug\WindowsRegistry_06.pdb
